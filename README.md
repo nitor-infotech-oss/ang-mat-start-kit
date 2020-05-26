@@ -23,6 +23,15 @@ This kit can be used as a starter pack for Angular and Material projects.
 6. Change the material theme with minimum updates to stylesheets
 7. Prebuilt support for Husky hooks for commits and push scenarios which prevents bad git commits and push
 
+## Future Additions
+
+1. Upgrade to Latest verison of Angular (Angular 9)
+2. Implement Angular Schematics
+3. Add Interceptors and Guards
+4. Add Core module
+5. Add support for Internalization
+6. Add support for PWA
+
 ## Versions
 
 1. Angular 8.2.3
